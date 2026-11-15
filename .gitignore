@@ -29,3 +29,5 @@ JuliaLocalPreferences.toml
 
 # Conda environment and metadata created in the project directory by the CondaPkg package
 .CondaPkg/
+
+/gas+sensor+array+drift+dataset+at+different+concentrations/
